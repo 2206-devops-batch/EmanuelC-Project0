@@ -22,6 +22,6 @@ each argument wrapped under single qoutes to make it easier to create longer tit
 # Create User
 if you want to add more users run command: <br />
 ```python manage.py create_user [username] ``` <br />
-# Delete User, deletes all blogs for users
+# Delete User, deletes all blogs for user
 if you want to delete a user: <br />
 ```python manage.py delete_user [username] ``` <br />
