@@ -7,7 +7,7 @@ install Django by running command: <br />
 or ```python3 -m pip install Django```
 
 # Django setup for todo app
-run command to create database: ```python manage.py migrate``` 
+run command to create database: ```python manage.py migrate``` <br /> 
 to test if its working correctly run: <br />
 ```python manage.py runserver``` and click on url <br />
 url will display title and "No Items In List"
