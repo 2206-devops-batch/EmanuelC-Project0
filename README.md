@@ -1,7 +1,7 @@
 # EmanuelC-Project0
 
 # Requirements
-Python and pip must be installed to proceed
+Python and pip must be installed to proceed <br />
 install Django by running command:
 ```python -m pip install Django```
 or ```python3 -m pip install Django```
