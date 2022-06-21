@@ -1,4 +1,5 @@
 # EmanuelC-Project0
+Started out as a todo app, but slowly started implementing more users and creating a simple blog system
 
 # Requirements (python/python3 or pip/pip3 is fine)
 Python and pip must be installed to proceed <br />
