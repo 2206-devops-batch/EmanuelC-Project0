@@ -20,6 +20,7 @@ in order to add tasks to the app run command in new terminal while runserver is 
 ``` python .\manage.py add_todo [username] [title] [description] 'True' ``` <br />
 each argument wrapped under single qoutes to make it easier to create longer titles and descriptions. last argument will remain 'True' <br /> 
 Example: ```python manage.py add_todo 'emanuel' 'test' 'test description' 'True' ``` <br />
+refresh url link to or runserver to see if blogs have been added. <br />
 # Create User
 if you want to add more users run command: <br />
 ```python manage.py create_user [username] ``` <br />
