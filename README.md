@@ -9,8 +9,8 @@ or ```python3 -m pip install Django```
 # Django setup for todo app
 run command to create database: ```python manage.py migrate``` <br /> 
 to test if its working correctly run: <br />
-```python manage.py runserver``` and click on url <br />
-url will display title and "No Items In List"
+```python manage.py runserver``` <br />
+click on url, will display title and "No Items In List"
 # Create user:
 ```python manage.py createsuperuser``` <br />
 will ask to create account, use this to access backend to add items. but this isnt important for our assignment
