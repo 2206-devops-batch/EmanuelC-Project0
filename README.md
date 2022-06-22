@@ -5,7 +5,7 @@ Started out as a todo app, but slowly started implementing more users and creati
 Python and pip must be installed to proceed <br />
 install Django by running command: <br />
 ```python -m pip install Django``` <br />
-or ```python3 -m pip install Django```
+or ```python3 -m pip install Django``` <br />
 lastly install lorem ipsum <br />
 ```pip install lorem-text```
 
